@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/flip_sort.dir/main.cpp.o  -o flip_sort 
